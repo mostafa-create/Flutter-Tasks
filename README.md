@@ -41,7 +41,3 @@ The workspace is organized into core programming assignments and application mod
 * **Concepts:** Layout composition (`Column`, `Row`, `Card`), text inputs, explicit visual alignment, and primary floating action buttons.
 * **Description:** A pixel-accurate reconstruction of the required assignment interface. It features a custom `AppBar`, a responsive avatar `Image`, descriptive text layouts, input fields for both **Email** and **Password** (with security character masking), a styled **Submit Button**, and an independent `FloatingActionButton`.
 
-To execute any of the terminal-based console scripts directly, run the following inside your command line:
-```bash
-dart Task_01.dart
-dart Task_02.dart
